@@ -1,0 +1,6 @@
+
+{
+  "name": "Plataforma DocuBrain RAG",
+  "description": "Uma plataforma sofisticada de visualização e gerenciamento de esquemas de banco de dados para fluxos de trabalho RAG (Geração Aumentada por Recuperação), com suporte a pgvector e insights de esquema por IA.",
+  "requestFramePermissions": []
+}
