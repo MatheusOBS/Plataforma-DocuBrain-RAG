@@ -1,7 +1,9 @@
 {
   "name": "plataforma-docubrain-rag",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.2.0",
+  "author": "MatheusOBS",
+  "description": "Enterprise RAG & Semantic Infrastructure platform.",
   "type": "module",
   "scripts": {
     "dev": "vite",
