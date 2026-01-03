@@ -1,0 +1,40 @@
+{
+  "name": "@matheusobs/use-ai-stream",
+  "version": "1.0.0",
+  "description": "A lightweight React hook for handling AI streaming responses",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "test": "vitest",
+    "lint": "tsc --noEmit"
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "ai",
+    "stream",
+    "llm"
+  ],
+  "author": "MatheusOBS",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  },
+  "type": "commonjs",
+  "devDependencies": {
+    "@testing-library/react": "^16.2.0",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "jsdom": "^26.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tsup": "^8.5.1",
+    "typescript": "^5.9.3",
+    "vitest": "^3.0.7"
+  }
+}
