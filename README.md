@@ -1,5 +1,7 @@
 # 🧠 DocuBrain RAG Platform
 
+![DocuBrain Hero](./public/hero-banner.png)
+
 ![Status](https://img.shields.io/badge/Status-Production-green?style=for-the-badge)
 ![CI](https://img.shields.io/badge/CI-Passing-success?style=for-the-badge&logo=github-actions)
 ![Docker](https://img.shields.io/badge/Docker-Ready-blue?style=for-the-badge&logo=docker)
@@ -112,4 +114,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-<p align="center">Built with ❤️ by <a href="https://github.com/MatheusOBS">MatheusOBS</a></p>
+Built with ❤️ by [MatheusOBS](https://github.com/MatheusOBS)
