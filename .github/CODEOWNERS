@@ -1,0 +1,10 @@
+# This file is used to define the owners of the code for automated review assignment.
+* @MatheusOBS
+
+# Core application files
+/src/ @MatheusOBS
+/components/ @MatheusOBS
+
+# Infrastructure
+/Dockerfile @MatheusOBS
+/.github/ @MatheusOBS

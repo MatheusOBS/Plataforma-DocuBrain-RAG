@@ -20,7 +20,8 @@
     "build": "vite build",
     "preview": "vite preview",
     "test": "vitest run src/",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "release": "echo 'Run git tag v1.0.0 & git push --tags' to release"
   },
   "dependencies": {
     "@google/genai": "^1.34.0",
